@@ -1,5 +1,3 @@
-# notification-animation
-
-Css animation for notification icon
+# Css animation for notification icon
 
 ![SimplePortfolio](notification.gif)
